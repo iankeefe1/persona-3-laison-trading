@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 const ITEMS = [
   { id: "about",   label: "ABOUT US",      page: "about",   fontSize: 80, offsetX: 0,  offsetY: 0,  skew: -6,  skewY: 10  },
-  { id: "Ecommerce",  label: "GITHUB LINK",   page: "Ecommerce",  fontSize: 68, offsetX: 8, offsetY: 6,  skew: 0, skewY: -4  },
+  { id: "Ecommerce",  label: "E-COMMERCE",   page: "Ecommcerce",  fontSize: 68, offsetX: 8, offsetY: 6,  skew: 0, skewY: -4  },
   { id: "socials", label: "SOCIALS",       page: "socials", fontSize: 74, offsetX: 16, offsetY: 8,  skew: -3,  skewY: 5   },
   // { id: "sideproj",label: "SIDE PROJECTS", page: "sideproj",fontSize: 56, offsetX: 10, offsetY: 6,  skew: -4,  skewY: 7   },
 ];
